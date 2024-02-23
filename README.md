@@ -1,7 +1,7 @@
 Nedenfor ses eksamensprojektoplæg og generel eksamensinformation for skoleåret 2023/2024.   
 God fornøjelse ;-) :
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 # Afleveringsfrister
 
