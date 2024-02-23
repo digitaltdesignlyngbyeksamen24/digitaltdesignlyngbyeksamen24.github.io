@@ -38,7 +38,7 @@ Husk på, at de valgte emner kun er forslag, og I er velkomne til at vælge et e
 
 Vi ønsker jer alt det bedste med eksamenen, og vi glæder os til at se jeres innovative og kreative løsninger på de udfordringer, I vælger at tage fat på.
 
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
 # Projektbeskrivelsen og Game design document
 
