@@ -14,7 +14,7 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 
 
 | Mandag d.18/3 |           |              |
-|---------------|-----------|--------------|
+|---------------|-----------|------------------------------------|
 | 12:10 - 12:25 |           |              |
 | 12:25 - 12:40 | Gruppe 1  | Conrad, Patrick, Tobias S.  |
 | 12:40 - 12:55 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
@@ -48,7 +48,7 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 14:25 - 14:40 | Gruppe 21 | Ali, Christian, Kasper og Victor R  |
 | 14:40 - 14:55 | Gruppe 22 | Benjamin, Aayan og Martin.  |
 | 14:55 - 15:10 | Gruppe 23 | Mikkel? |
-| 15:10 - 15:25 |  |  |
+| 15:10 - 15:25 | Gruppe 24 | Jonas? |
 
 
 
