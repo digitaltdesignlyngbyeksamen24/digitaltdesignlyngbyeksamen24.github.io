@@ -39,7 +39,7 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 12:10 - 12:25 |   |  |
 | 12:25 - 12:40 | Gruppe 13  | Chris, Kasper V og Victor A |
 | 12:40 - 12:55 | Gruppe 14  | Anitta, Enya og Caroline |
-| 12:55 - 13:10 | Gruppe 15  | Arthur, Gustav og Milas |
+| 12:55 - 13:10 | Gruppe 15  | Arthur, Gustav, Milas og Rasmus |
 | 13:10 - 13:25 | Gruppe 16  | Lasse, Nikolas og Victor |
 | 13:25 - 13:40 | Gruppe 17  | Mattias og Nicholas |
 | 13:40 - 13:55 | Gruppe 18  | Alexander, Karl Emil og Nikolaj |
