@@ -9,7 +9,7 @@
 
 |               |           |              |
 |---------------|-----------|--------------|
-| 12:10 - 12:25 | Gruppe 1  | Anas, William S. |
+| 12:10 - 12:25 | Gruppe 1  |  |
 | 12:25 - 12:40 | Gruppe 2  | Conrad, Patrick, Tobias S.  |
 | 12:40 - 12:55 | Gruppe 3  | Ebbe, Hjalte, Jan, Phillip, Victor |
 | 12:55 - 13:10 | Gruppe 4  | Jonathan, Tobias E. |
@@ -20,8 +20,8 @@
 | 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
 | 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
 | 14:40 - 14:55 | Gruppe 11 | Marinus, Vincent |
-| 14:55 - 15:10 | Gruppe 12 | Adam |
-| 15:10 - 15:25 | Gruppe 13 | |
+| 14:55 - 15:10 | Gruppe 12 | Anas, William S. |
+| 15:10 - 15:25 | Gruppe 13 | Adam |
 
 - Caroline er med på statusmøde onsdag
 - Rasmus er med på statusmøde onsdag
