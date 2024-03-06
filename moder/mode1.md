@@ -25,8 +25,8 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
 | 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
 | 14:40 - 14:55 | Gruppe 11 | Marinus, Simon |
-| 14:55 - 15:10 | Gruppe 12 | Adam |
-| 15:10 - 15:25 | Gruppe 13 | |
+| 14:55 - 15:10 | Gruppe 12 | Anas, William S. |
+| 15:10 - 15:25 | Gruppe 13 | Adam |
 
 - Caroline er med på statusmøde onsdag
 - Rasmus er med på statusmøde onsdag
