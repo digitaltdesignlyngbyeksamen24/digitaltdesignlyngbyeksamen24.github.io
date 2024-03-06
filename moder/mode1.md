@@ -1,5 +1,10 @@
 # Statusmøde 1 - Pitch
 
+Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden staus på jeres hvor langt i er nået i projektarbejdet.   
+
+Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
+Vi giver formativ feedback på møderne, men ingen karakter!
+
 |               |                     |
 | ------------- | ------------------- |
 | Dato          | Mandag d.18/3-2024  |
@@ -19,17 +24,12 @@
 | 13:55 - 14:10 | Gruppe 8  | Lucas, Mei, Peter, Ruben |
 | 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
 | 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
-| 14:40 - 14:55 | Gruppe 11 | Marinus, Vincent |
-| 14:55 - 15:10 | Gruppe 12 | Anas, William S. |
-| 15:10 - 15:25 | Gruppe 13 | Adam |
+| 14:40 - 14:55 | Gruppe 11 | Marinus, Simon |
+| 14:55 - 15:10 | Gruppe 12 | Adam |
+| 15:10 - 15:25 | Gruppe 13 | |
 
 - Caroline er med på statusmøde onsdag
 - Rasmus er med på statusmøde onsdag
-
-Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden en staus på jeres hvor langt i er nået i projektarbejdet.   
-
-Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
-Vi giver formativ feedback på møderne, men ingen karakter!
 
 
 
