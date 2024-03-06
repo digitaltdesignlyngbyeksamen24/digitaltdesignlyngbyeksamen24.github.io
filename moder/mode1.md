@@ -1,28 +1,35 @@
 # Statusmøde 1 - Pitch
 
-|               |               |
-| ------------- | ------------- |
-| Dato          |   |
-| Formål        | Pitch         |
-| Præsentation  | 5 minutter    |
-| Samtale       | 5 minutter    |
+|               |                     |
+| ------------- | ------------------- |
+| Dato          | Mandag d.18/3-2024  |
+| Formål        | Pitch               |
+| Præsentation  | 5 minutter          |
+| Samtale       | 5 minutter          |
 
 |               |           |              |
 |---------------|-----------|--------------|
-| 12:10 - 12:25 | Gruppe 1  |  |
-| 12:25 - 12:40 | Gruppe 2  |  |
-| 12:40 - 12:55 | Gruppe 3  |  |
-| 12:55 - 13:10 | Gruppe 4  |  |
-| 13:10 - 13:25 | Gruppe 5  |  |
-| 13:25 - 13:40 | Gruppe 6  |  |
-| 13:40 - 13:55 | Gruppe 7  |  |
-| 13:55 - 14:10 | Gruppe 8  |  |
-| 14:10 - 14:25 | Gruppe 9  |  |
-| 14:25 - 14:40 | Gruppe 10 |  |
-| 14:40 - 14:55 | Gruppe 11 |  |
-| 14:55 - 15:10 | Gruppe 12 |  |
+| 12:10 - 12:25 | Gruppe 1  | Anas, William S. |
+| 12:25 - 12:40 | Gruppe 2  | Conrad, Patrick, Tobias S.  |
+| 12:40 - 12:55 | Gruppe 3  | Ebbe, Hjalte, Jan, Phillip, Victor |
+| 12:55 - 13:10 | Gruppe 4  | Jonathan, Tobias E. |
+| 13:10 - 13:25 | Gruppe 5  | Emil, Magnus F., William L. |
+| 13:25 - 13:40 | Gruppe 6  | August, Noah |
+| 13:40 - 13:55 | Gruppe 7  | Oscar, Oskar |
+| 13:55 - 14:10 | Gruppe 8  | Lucas, Mei, Peter, Ruben |
+| 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
+| 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
+| 14:40 - 14:55 | Gruppe 11 | Marinus, Vincent |
+| 14:55 - 15:10 | Gruppe 12 | Adam |
 | 15:10 - 15:25 | Gruppe 13 | |
 
+- Caroline er med på statusmøde onsdag
+- Rasmus er med på statusmøde onsdag
+
+Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden en staus på jeres hvor langt i er nået i projektarbejdet.   
+
+Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
+Vi giver formativ feedback på møderne, men ingen karakter!
 
 
 
