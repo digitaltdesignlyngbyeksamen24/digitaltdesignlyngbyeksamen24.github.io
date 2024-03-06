@@ -7,29 +7,49 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 
 |               |                     |
 | ------------- | ------------------- |
-| Dato          | Mandag d.18/3-2024  |
+| Dato          | Mandag d.18/3 og Onsdag d.20/3  |
 | Formål        | Pitch               |
 | Præsentation  | 5 minutter          |
 | Samtale       | 5 minutter          |
 
-|               |           |              |
-|---------------|-----------|--------------|
-| 12:10 - 12:25 | Gruppe 1  |  |
-| 12:25 - 12:40 | Gruppe 2  | Conrad, Patrick, Tobias S.  |
-| 12:40 - 12:55 | Gruppe 3  | Ebbe, Hjalte, Jan, Phillip, Victor |
-| 12:55 - 13:10 | Gruppe 4  | Jonathan, Tobias E. |
-| 13:10 - 13:25 | Gruppe 5  | Emil, Magnus F., William L. |
-| 13:25 - 13:40 | Gruppe 6  | August, Noah |
-| 13:40 - 13:55 | Gruppe 7  | Oscar, Oskar |
-| 13:55 - 14:10 | Gruppe 8  | Lucas, Mei, Peter, Ruben |
-| 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
-| 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
-| 14:40 - 14:55 | Gruppe 11 | Marinus, Simon |
-| 14:55 - 15:10 | Gruppe 12 | Anas, William S. |
-| 15:10 - 15:25 | Gruppe 13 | Adam |
 
-- Caroline er med på statusmøde onsdag
-- Rasmus er med på statusmøde onsdag
+| Mandag d.18/3 |           |              |
+|---------------|-----------|--------------|
+| 12:10 - 12:25 |           |              |
+| 12:25 - 12:40 | Gruppe 1  | Conrad, Patrick, Tobias S.  |
+| 12:40 - 12:55 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
+| 12:55 - 13:10 | Gruppe 3  | Jonathan, Tobias E. |
+| 13:10 - 13:25 | Gruppe 4  | Emil, Magnus F., William L. |
+| 13:25 - 13:40 | Gruppe 5  | August, Noah |
+| 13:40 - 13:55 | Gruppe 6  | Oscar, Oskar |
+| 13:55 - 14:10 | Gruppe 7  | Lucas, Mei, Peter, Ruben |
+| 14:10 - 14:25 | Gruppe 8  | Sebastian, Sebastian |
+| 14:25 - 14:40 | Gruppe 9 | Filip, Mathias, Vincent |
+| 14:40 - 14:55 | Gruppe 10 | Marinus, Simon |
+| 14:55 - 15:10 | Gruppe 11 | Anas, William S. |
+| 15:10 - 15:25 | Gruppe 12 | Adam |
+
+- Caroline er med på statusmøde for hold 2 onsdag
+- Rasmus er med på statusmøde for hold 2 onsdag
+
+
+
+| Onsdag d.18/3 |           |              |
+|---------------|-----------|--------------|
+| 12:10 - 12:25 |   |  |
+| 12:25 - 12:40 | Gruppe 13  | Chris, Kasper V og Victor A |
+| 12:40 - 12:55 | Gruppe 14  | Anitta, Enya og Caroline |
+| 12:55 - 13:10 | Gruppe 15  | Arthur, Gustav og Milas |
+| 13:10 - 13:25 | Gruppe 16  | Lasse, Nikolas og Victor |
+| 13:25 - 13:40 | Gruppe 17  | Mattias og Nicholas |
+| 13:40 - 13:55 | Gruppe 18  | Alexander, Karl Emil og Nikolaj |
+| 13:55 - 14:10 | Gruppe 19  | Flemming, Martin og Phillip  |
+| 14:10 - 14:25 | Gruppe 20  | Martin Sam og Rud  |
+| 14:25 - 14:40 | Gruppe 21 | Ali, Christian, Kasper og Victor R  |
+| 14:40 - 14:55 | Gruppe 22 | Benjamin, Aayan og Martin.  |
+| 14:55 - 15:10 | Gruppe 23 | Mikkel? |
+| 15:10 - 15:25 |  |  |
+
 
 
 
