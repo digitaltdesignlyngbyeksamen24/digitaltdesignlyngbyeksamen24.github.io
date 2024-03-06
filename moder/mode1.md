@@ -1,5 +1,10 @@
 # Statusmøde 1 - Pitch
 
+Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden en staus på jeres hvor langt i er nået i projektarbejdet.   
+
+Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
+Vi giver formativ feedback på møderne, men ingen karakter!
+
 |               |                     |
 | ------------- | ------------------- |
 | Dato          | Mandag d.18/3-2024  |
