@@ -1,6 +1,6 @@
 # Statusmøde 1 - Pitch
 
-Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden en staus på jeres hvor langt i er nået i projektarbejdet.   
+Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden staus på jeres hvor langt i er nået i projektarbejdet.   
 
 Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
 Vi giver formativ feedback på møderne, men ingen karakter!
@@ -30,11 +30,6 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 
 - Caroline er med på statusmøde onsdag
 - Rasmus er med på statusmøde onsdag
-
-Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden en staus på jeres hvor langt i er nået i projektarbejdet.   
-
-Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
-Vi giver formativ feedback på møderne, men ingen karakter!
 
 
 
