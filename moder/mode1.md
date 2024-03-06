@@ -24,7 +24,7 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 13:55 - 14:10 | Gruppe 8  | Lucas, Mei, Peter, Ruben |
 | 14:10 - 14:25 | Gruppe 9  | Sebastian, Sebastian |
 | 14:25 - 14:40 | Gruppe 10 | Filip, Mathias, Vincent |
-| 14:40 - 14:55 | Gruppe 11 | Marinus, Vincent |
+| 14:40 - 14:55 | Gruppe 11 | Marinus, Simon |
 | 14:55 - 15:10 | Gruppe 12 | Adam |
 | 15:10 - 15:25 | Gruppe 13 | |
 
