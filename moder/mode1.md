@@ -1,9 +1,8 @@
 # Statusmøde 1 - Pitch
 
-Forbered et godt og overbevisende pitch, hvor i både argumenterer for jeres valgte nøgleproblem og valgte løsningsforslag, dvs. produkt. Præsenter eventuelle prototyper og/eller brugerundersøgelser. Giv desuden staus på jeres hvor langt i er nået i projektarbejdet.   
+Sørg for at udarbejde en velstruktureret og overbevisende pitch, der effektivt adresserer det valgte nøgleproblem og præsenterer jeres løsningsforslag, herunder eventuelle prototyper eller brugerundersøgelser. Samtidig skal I give en kort opdatering på jeres fremskridt i projektarbejdet. Husk, I har kun cirka 5 minutter til præsentationen, efterfulgt af en samtale på cirka 5 minutter.
 
-Vær opmærksom på at alle statusmøder anvendes som vurderingsgrundlag for jeres årskarakter.
-Vi giver formativ feedback på møderne, men ingen karakter!
+Det er vigtigt at bemærke, at alle statusmøder vil blive brugt til vurdering af jeres årskarakter. Vi vil give formativ feedback under møderne, men der vil ikke blive tildelt karakterer.
 
 |               |                     |
 | ------------- | ------------------- |
@@ -29,10 +28,8 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 14:55 - 15:10 | Gruppe 11 | Anas, William S. |
 | 15:10 - 15:25 | Gruppe 12 | Adam |
 
-- Caroline er med på statusmøde for hold 2 onsdag
-- Rasmus er med på statusmøde for hold 2 onsdag
-
-
+<!-- Caroline er med på statusmøde for hold 2 onsdag 
+- Rasmus er med på statusmøde for hold 2 onsdag -->
 
 | Onsdag d.18/3 |           |              |
 |---------------|-----------|--------------|
@@ -49,27 +46,6 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 14:40 - 14:55 | Gruppe 22 | Benjamin, Aayan og Martin.  |
 | 14:55 - 15:10 | Gruppe 23 | Mikkel |
 | 15:10 - 15:25 | Gruppe 24 |  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
