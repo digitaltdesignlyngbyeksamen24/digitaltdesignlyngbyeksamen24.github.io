@@ -20,7 +20,7 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 12:40 - 12:55 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
 | 12:55 - 13:10 | Gruppe 3  | Jonathan, Tobias E. |
 | 13:10 - 13:25 | Gruppe 4  | Emil, Magnus F., William L. |
-| 13:25 - 13:40 | Gruppe 5  | August, Noah |
+| 13:25 - 13:40 | Gruppe 5  | August, Noah, Jonas |
 | 13:40 - 13:55 | Gruppe 6  | Oscar, Oskar |
 | 13:55 - 14:10 | Gruppe 7  | Lucas, Mei, Peter, Ruben |
 | 14:10 - 14:25 | Gruppe 8  | Sebastian, Sebastian |
@@ -47,8 +47,8 @@ Vi giver formativ feedback på møderne, men ingen karakter!
 | 14:10 - 14:25 | Gruppe 20  | Martin Sam og Rud  |
 | 14:25 - 14:40 | Gruppe 21 | Ali, Christian, Kasper og Victor R  |
 | 14:40 - 14:55 | Gruppe 22 | Benjamin, Aayan og Martin.  |
-| 14:55 - 15:10 | Gruppe 23 | Mikkel? |
-| 15:10 - 15:25 | Gruppe 24 | Jonas? |
+| 14:55 - 15:10 | Gruppe 23 | Mikkel |
+| 15:10 - 15:25 | Gruppe 24 |  |
 
 
 
