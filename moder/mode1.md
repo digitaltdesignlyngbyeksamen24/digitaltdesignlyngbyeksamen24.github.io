@@ -21,10 +21,10 @@ Det er vigtigt at bemærke, at alle statusmøder vil blive brugt til vurdering a
 | 13:10 - 13:25 | Gruppe 4  | Emil, Magnus F., William L. |
 | 13:25 - 13:40 | Gruppe 5  | August, Noah, Jonas |
 | 13:40 - 13:55 | Gruppe 6  | Oscar, Oskar |
-| 13:55 - 14:10 | Gruppe 7  | Lucas, Mei, Peter, Ruben |
+| 13:55 - 14:10 | Gruppe 7  |  Marinus, Simon |
 | 14:10 - 14:25 | Gruppe 8  | Sebastian, Sebastian |
 | 14:25 - 14:40 | Gruppe 9 | Filip, Mathias, Vincent |
-| 14:40 - 14:55 | Gruppe 10 | Marinus, Simon |
+| 14:40 - 14:55 | Gruppe 10 | Lucas, Mei, Peter, Ruben |
 | 14:55 - 15:10 | Gruppe 11 | Anas, William S. |
 | 15:10 - 15:25 | Gruppe 12 | Adam |
 
