@@ -11,7 +11,7 @@
 
 
 
-| Torsdag d.18/4 |           |              |
+| Onsdag d.17/4 |           |              |
 |---------------|-----------|------------------------------------|
 | 10:30 - 10:50 | Gruppe 1  | Conrad, Patrick, Tobias S.  |
 | 10:50 - 11:10 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
