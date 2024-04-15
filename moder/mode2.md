@@ -13,7 +13,6 @@
 
 | Onsdag d.17/4 |           |              |
 |---------------|-----------|------------------------------------|
-| 10:30 - 10:50 | Gruppe 1  | Conrad, Patrick, Tobias S.  |
 | 10:50 - 11:10 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
 | 11:10 - 11:30 | Gruppe 3  | Jonathan, Tobias E. |
 | 12:10 - 12:30 | Gruppe 4  | Emil, Magnus F., William L. |
@@ -31,6 +30,7 @@
 
 | Fredag d.19/4 |           |              |
 |---------------|-----------|--------------|
+| 10:10 - 10:30 | Gruppe 1  | Conrad, Patrick, Tobias S.  |
 | 10:30 - 10:50 | Gruppe 13  | Chris, Kasper V og Victor A |
 | 10:50 - 11:10 | Gruppe 14  |  Anitta, Enya og Caroline |
 | 11:10 - 11:30 | Gruppe 15  | Arthur, Gustav, Milas og Rasmus |
