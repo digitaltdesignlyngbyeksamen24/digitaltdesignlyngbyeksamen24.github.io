@@ -15,13 +15,13 @@
 |---------------|-----------|------------------------------------|
 | 10:50 - 11:10 | Gruppe 2  | Ebbe, Hjalte, Jan, Phillip, Victor |
 | 11:10 - 11:30 | Gruppe 3  | Jonathan, Tobias E. |
-| 12:10 - 12:30 | Gruppe 4  | Emil, Magnus F., William L. |
+| 12:10 - 12:30 | Gruppe 10 | Lucas, Mei, Peter, Ruben |
 | 12:30 - 12:50 | Gruppe 5  | August, Noah, Jonas, Mikkel |
 | 12:50 - 13:10 | Gruppe 6  | Oscar, Oskar |
 | 13:15 - 13:35 | Gruppe 7  |  Marinus, Simon |
 | 13:35 - 13:55 | Gruppe 8  | Sebastian, Sebastian |
 | 13:55 - 14:15 | Gruppe 9 | Filip, Mathias, Vincent |
-| 14:20 - 14:40 | Gruppe 10 | Lucas, Mei, Peter, Ruben |
+| 14:20 - 14:40 | Gruppe 4  | Emil, Magnus F., William L. |
 | 14:40 - 15:00 | Gruppe 11 | Anas, William S. |
 | 15:00 - 15:20 | Gruppe 12 | Adam |
 
